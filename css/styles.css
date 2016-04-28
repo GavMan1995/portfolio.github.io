@@ -1,0 +1,98 @@
+.logo-nav {
+  font-size: 40px;
+  font-weight: 100;
+  letter-spacing: 3px;
+  margin: 0;
+  padding-top: 3px;
+  padding-left: 0;
+  padding-right: 3px;
+  color: #525052;
+}
+
+.logo-nav:hover {
+  color: #9a9a9a;
+  text-decoration: none;
+}
+
+.logo-nav:focus {
+  color: #9a9a9a;
+  text-decoration: none;
+}
+
+.pic {
+  width: 300px;
+  border-radius: 50%;
+  box-shadow: 0 3px 2em black;
+}
+
+.pic:hover {
+  cursor: pointer;
+  box-shadow: 0 3px 3em black;
+}
+
+.img-div {
+  margin-top: 10em;
+}
+
+
+
+body {
+  margin: 0;
+}
+
+.contact {
+  margin: .2em;
+  color: #555555;
+}
+
+.contact:hover {
+  color: #9a9a9a;
+  text-decoration: none;
+}
+
+.contact:focus {
+  color: #9a9a9a;
+  text-decoration: none;
+}
+
+.resume-link {
+  color: #4c72aa;
+
+}
+
+.resume-link:hover {
+  color: #9a9a9a;
+  text-decoration: none;
+}
+
+.resume-link:focus {
+  color: #9a9a9a;
+  text-decoration: none;
+}
+
+.about {
+  font-weight: 200;
+}
+
+.what-done {
+  font-size: 40px;
+  font-weight: 100;
+  letter-spacing: 1px;
+  margin: 0;
+  padding-top: 3px;
+  padding-left: 0;
+  padding-right: 3px;
+  color: #4c72aa;
+}
+
+.what-done:hover {
+  color: #9a9a9a;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.what-done:focus {
+  color: #9a9a9a;
+  text-decoration: none;
+  cursor: pointer;
+}
